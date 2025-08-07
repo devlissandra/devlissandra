@@ -1,7 +1,7 @@
-<h1 align="center">Lissandra Santos</h1>
+<h1 align="center">Lissandra Ester Santos</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Estudante de TI 
 </p>
 
 ---
