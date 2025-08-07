@@ -1,4 +1,4 @@
-<h1 align="center">Lissandra Ester Santos</h1>
+<h1 align="center">Lissandra Ester</h1>
 
 <p align="center">
   Estudante de Sistemas para Internet 
