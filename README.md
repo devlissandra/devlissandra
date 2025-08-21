@@ -1,7 +1,7 @@
 <h1 align="center">Lissandra Ester</h1>
 
 <p align="center">
-  Estudante de Sistemas para Internet 
+  Full-Stack Developer | Student
 </p>
 
 ---
