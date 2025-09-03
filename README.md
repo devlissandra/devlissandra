@@ -8,18 +8,9 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
----
-
-## Sobre
-
-
-## Projetos em destaque
-
-
 ## Contato
 
-- [LinkedIn](www.linkedin.com/in/lissandra-santos-398661276)
-- [Portfólio]()
-- [Instagram - Lissandra]()
+- [LinkedIn](https://www.linkedin.com/in/lissandra-santos)
+- [Instagram](https://www.instagram.com/lliss_ester))
 
 
