@@ -10,7 +10,7 @@
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lissandra-santos/)
+- [LinkedIn](https://www.linkedin.com/in/lissandra-santos-39866/)
 - [Instagram](https://www.instagram.com/lliss_ester)
 
 
